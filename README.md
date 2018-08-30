@@ -15,11 +15,7 @@ Summoners from the different splinters will test your knowledge of Steem Monster
 # Installation
 Please make sure you have the latest version of Ren'Py installed with can be downloaded at https://www.renpy.org. Create a folder in the renpy sdk folder called "Loremaster" and download all the files in this project to that folder. Open renpy.exe and launch or edit the project by selecting "Loremaster".
 
-
-License
-I'm releasing this under the Apache License 2.0. This may change based on direction from the Steem Monsters team.
-
-Who
+# Who
 This project is maintained by Ciel Sainte-Marie, of Fairypark Games. You can find out more information about Fairypark Games at https://steemit.com/@thefairypark.
 
 
