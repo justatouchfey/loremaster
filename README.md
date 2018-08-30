@@ -9,10 +9,10 @@ Loremaster is a trivia game created for the 1st Steem Monster game jam (https://
 
 Loremaster was built using Ren'Py 7.0.0
 
-Gameplay
+# Gameplay
 Summoners from the different splinters will test your knowledge of Steem Monsters lore. The answers to all questions may be found through Steem Monsters material, whether on the website, steemit, or discord. Have fun!
 
-Installation
+# Installation
 Please make sure you have the latest version of Ren'Py installed with can be downloaded at https://www.renpy.org. Create a folder in the renpy sdk folder called "Loremaster" and download all the files in this project to that folder. Open renpy.exe and launch or edit the project by selecting "Loremaster".
 
 
